@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jadhavrohit924
+- 👋 Hi, I’m Rohit
 - 👀 I’m interested in c and cpp development as well as web development.
 - 🌱 I’m currently working on [ESP MATTER](https://github.com/project-chip/connectedhomeip)
 - 📫 Contact:- jadhavrohit924@gmail.com
